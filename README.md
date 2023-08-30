@@ -195,7 +195,7 @@ iptables -X
 
 ## Part 5. Статическая маршрутизация сети
 - Сеть:
-![read](/misc/images/part5_network.png)
+![read](img/part5_network.png)
 
 - Запускаем пять виртуальных машин (3 рабочие станции (ws11, ws21, ws22) и 2 роутера (r1, r2)):
 ![read](img/5wirtualok.png)
